@@ -1,0 +1,53 @@
+html {
+    font-family: "Geneva", sans-serif
+}
+
+color: #html {
+    font-family: "Helevetica", sans-serif;
+}
+
+body {
+    /*https://www.w3schools.com/cssref/css_colors.asp*/
+    color: #020202;
+    font-weight: 100;
+    max-width: 50em;
+    margin: 0 auto;
+    background-image: url("./background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div:focus {
+    outline: none;
+}
+
+#heading {
+    text-align: center;
+    font-size: 48px;
+    margin: 50px 10px 25px 30px;
+    border-style: dotted solid;
+}
+
+#content {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 24px;
+}
+
+;
+font-weight: 100;
+max-width: 50em;
+margin: 0 auto;
+div:focus {
+    outline: none;
+}
+
+#heading {
+    font-size: 48px;
+    padding-top: 30px;
+}
+
+#content {
+    padding-top: 10px;
+    font-size: 24px;
+}
