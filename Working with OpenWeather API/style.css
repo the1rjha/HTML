@@ -1,0 +1,14 @@
+html {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    text-align: center;
+}
+
+body {
+    color: #020202;
+    font-weight: 100;
+    max-width: 50em;
+    margin: 0 auto;
+    background-image: url("./background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
